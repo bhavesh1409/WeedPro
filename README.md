@@ -38,3 +38,6 @@ The above images shows the intermediate results generated before passing the ima
 ## Dataset
 
 The WeedPro project utilizes a meticulously curated dataset of 800 images collected from IGKV, Raipur, featuring onion crops and various weed species. Each image is manually annotated to provide ground truth data for training and evaluation.
+
+<img width="355" alt="Screenshot 2023-07-29 at 6 17 56 PM" src="https://github.com/bhavesh1409/WeedPro/assets/107453233/d3c1dff9-935d-485f-b4e8-cbae6c1dba87">
+
