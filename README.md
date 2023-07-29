@@ -4,7 +4,8 @@
 
 WeedPro is a precision agriculture project aimed at revolutionizing weed management in onion fields using cutting-edge machine vision and deep learning techniques. It offers an automated and efficient solution to identify and control weeds, thus optimizing the use of resources and promoting sustainable farming practices.
 
-[Challenges_diagram.pdf](https://github.com/bhavesh1409/WeedPro/files/12207154/Challenges_diagram.pdf)
+<img width="1366" alt="Screenshot 2023-07-29 at 6 03 20 PM" src="https://github.com/bhavesh1409/WeedPro/assets/107453233/647df099-efa8-433c-8b8c-fa5ba57e4c9d">
+
 
 
 ## Goal of WeedPro
