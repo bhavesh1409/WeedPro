@@ -19,6 +19,8 @@ The primary goal of WeedPro is to develop a robust and accurate weed management 
 - **Enhanced Crop Yield**: Improve the overall onion crop yield by efficiently managing weeds and reducing competition for resources.
 
 ## Methodology and Approach
+<img width="1378" alt="Screenshot 2023-07-29 at 6 05 24 PM" src="https://github.com/bhavesh1409/WeedPro/assets/107453233/ca854961-476a-4fb3-b1f4-5acdadbe8a0d">
+
 
 WeedPro employs a sophisticated methodology that combines binary segmentation and multi-class segmentation techniques along with object detection for precise spray point localization. The key components of the approach are as follows:
 
