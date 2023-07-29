@@ -30,6 +30,11 @@ WeedPro employs a sophisticated methodology that combines binary segmentation an
 
 3. **Object Detection for Spray Point Localization**: Develop a methodology to precisely localize the optimal spray points on the identified weeds. This ensures accurate application of weedicide only where required, minimizing environmental impact.
 
+<img width="442" alt="Screenshot 2023-07-29 at 6 11 55 PM" src="https://github.com/bhavesh1409/WeedPro/assets/107453233/f29448f6-3b57-4589-a8ee-525b7ede2014">
+
+
+The above images shows the intermediate results generated before passing the image to Objection detection model for spray point localization.
+
 ## Dataset
 
 The WeedPro project utilizes a meticulously curated dataset of 800 images collected from IGKV, Raipur, featuring onion crops and various weed species. Each image is manually annotated to provide ground truth data for training and evaluation.
