@@ -1,4 +1,4 @@
-# WeedPro - Precision Agriculture for Weed Management in Onion Fields
+# WeedPro: Segmentation and Classification of Weeds and Crop in Smart Farming
 
 ## Overview
 
